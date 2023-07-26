@@ -9,7 +9,7 @@
 ## 개발환경
 
 - IDE : Eclipse XX버전
-- JDK 12
+- JDK 1.8
 - Tomcat 9.0
 
 ## 실행방법
@@ -17,3 +17,4 @@
 - 'Main.java'
 
 ```bash```
+- java... .java

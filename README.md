@@ -11,6 +11,7 @@
 - IDE : Eclipse XX버전
 - JDK 1.8
 - Tomcat 9.0
+- ojdbc11
 
 ## 실행방법
 
